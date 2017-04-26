@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# Copyright (c) 2015, Rik Bellens, AppsUp. All rights reserved.
+
 mkdir -p locale
 for l in $(ls node_modules/moment/locale)
  do
