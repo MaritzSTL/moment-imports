@@ -3,7 +3,7 @@
   "version": "1.0.0-rc.1",
   "description": "MomentJS HTML Imports",
   "main": "moment.html",
-  "repository": "https://github.com/MaritzMotivationSolutions/moment-imports.git",
+  "repository": "https://github.com/MaritzSTL/moment-imports.git",
   "author": "Maritz Motivation Solutions",
   "license": "MIT",
   "keywords": [
