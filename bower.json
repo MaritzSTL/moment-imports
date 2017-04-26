@@ -1,5 +1,6 @@
 {
   "name": "moment-imports",
+  "version": "1.0.0-rc.1",
   "description": "MomentJS HTML Imports",
   "main": "moment.html",
   "authors": [
