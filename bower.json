@@ -1,0 +1,33 @@
+{
+  "name": "moment-imports",
+  "description": "MomentJS HTML Imports",
+  "main": "moment.html",
+  "authors": [
+    "Maritz Motivation Solutions"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "moment",
+    "date",
+    "time",
+    "parse",
+    "format",
+    "validate",
+    "i18n",
+    "l10n",
+    "ender"
+  ],
+  "homepage": "https://github.com/MaritzMotivationSolutions/moment-imports",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "moment/moment#^2.18.1",
+    "moment-timezone": "moment/moment-timezone#^0.5.13"
+  }
+}
